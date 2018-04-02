@@ -13,4 +13,3 @@ function logShout(string){
 
 
 
-c
